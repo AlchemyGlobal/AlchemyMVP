@@ -8,7 +8,6 @@ const gameSocket = require("./socket/index");
 require("./config/loadEnv")();
 const app = express();
 
-// Middleware
 configureMiddleware(app);
 
 // Routes
@@ -44,7 +43,6 @@ const startServer = () => {
 
 startServer();
 
-// ---- GLOBAL ERROR HANDLING ----
 process.on("unhandledRejection", (err) => {
   console.error(`Unhandled Rejection: ${err.message}`);
   server?.close(() => process.exit(1));

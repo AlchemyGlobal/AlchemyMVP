@@ -1,24 +1,28 @@
-# 🌌 Alchemy_Verse MVP
+# 🌐 AjunaVerse MVP
 
-[![Node.js](https://img.shields.io/badge/Node.js-v18-brightgreen)](https://nodejs.org/)
+<p align="center">
+  <img src="./public/hero-banner.png" alt="AjunaVerse Banner" width="100%" />
+</p>
+
+[![Node.js](https://img.shields.io/badge/Node.js-v22-brightgreen)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 [![Polygon](https://img.shields.io/badge/Polygon-EVM-purple)](https://polygon.technology/)
-[![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-orange)](https://soliditylang.org/)
+[![Solidity](https://img.shields.io/badge/Solidity-^0.8.28-orange)](https://soliditylang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
 ## 🚀 Introduction
 
-**Alchemy_Verse** is a decentralized Metaverse platform where users can explore, create, and transact in a fully tokenized virtual world.  
-It leverages blockchain technology for transparent ownership, NFT-based assets, and provably fair gameplay mechanics.
+**AjunaVerse** is an immersive, decentralized Metaverse platform where users can explore, interact, and transact in a virtual world.  
+It leverages blockchain technology for ownership, transparency, and verifiable scarcity of digital assets.
 
 **Key Features:**
 
 - 🌐 **Decentralized Digital Economy**: Buy, sell, and trade NFTs, tokens, and virtual assets securely  
 - 🕹️ **Immersive Experiences**: 3D worlds, interactive avatars, and multiplayer interactions  
 - 📱 **Cross-Platform Access**: Web, desktop, and mobile-ready  
-- 🔗 **Provably Fair Interactions**: Blockchain-based verifiable transactions  
+- 🔗 **Provably Fair Interactions**: Transparent blockchain-based asset transactions  
 - 🗣️ **Community & Social Features**: Real-time chat, events, and collaboration  
 
 ---

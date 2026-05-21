@@ -1,17 +1,16 @@
-# 🌐 BET-POKER
+# 🌐 BetPoker MVP
 
-
-[![Node.js](https://img.shields.io/badge/Node.js-v22-brightgreen)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-v18-brightgreen)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 [![Polygon](https://img.shields.io/badge/Polygon-EVM-purple)](https://polygon.technology/)
-[![Solidity](https://img.shields.io/badge/Solidity-^0.8.28-orange)](https://soliditylang.org/)
+[![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-orange)](https://soliditylang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
 ## 🚀 Introduction
 
-**AjunaVerse** is an immersive, decentralized Metaverse platform where users can explore, interact, and transact in a virtual world.  
+**BetPoker** is an immersive, decentralized Metaverse platform where users can explore, interact, and transact in a virtual world.  
 It leverages blockchain technology for ownership, transparency, and verifiable scarcity of digital assets.
 
 **Key Features:**
